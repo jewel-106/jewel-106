@@ -37,7 +37,7 @@ I also write about [Topics, e.g., coding tutorials, tech trends] on my [Blog or 
 ## Connect with Me
 
 - [LinkedIn](linkedin.com/in/jewel-rana-cse19duet)
-- [Codeforces](codeforces.com/profile/Rana106](https://codeforces.com/profile/Rana106)
+- [Codeforces](https://codeforces.com/profile/Rana106)
 - [GitHub](https://github.com/jewel-106)
 - [Codechef](codechef.com/users/rana106)
 - [Stopstalk](stopstalk.com/user/profile/Jewel_Rana_106)
