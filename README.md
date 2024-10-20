@@ -28,7 +28,7 @@ Here are some of the projects I’m working on:
 
 ## Blog Posts
 
-I also write about [Topics, e.g., coding tutorials, tech trends] on my [Blog or Medium page](link-to-blog).
+I also write about [Topics, e.g., coding tutorials, tech trends] on my [Blog or Medium page]
 
 ## Connect with Me
 
