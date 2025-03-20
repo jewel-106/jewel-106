@@ -15,7 +15,8 @@ I'm a Computer Science and Engineering student passionate about technology and c
 
 Here are some of the projects I’m working on:
 
-- **[Cafe Management System]**: [BA Cafe Management System is a software application designed to streamline and automate various operations within a café, enhancing efficiency and improving customer service. By utilizing a combination of modern technologies—Express.js for the backend, Angular for the frontend, and PostgreSQL for database management—this system offers a robust and scalable solution tailored to meet the dynamic needs of café management.](https://cafe-online-shop-bd.netlify.app/)
+- **[Cafe Management System]**: [A full-stack web application for managing café orders, user authentication, 
+                and real-time order tracking using Angular and Express.js.](https://cafe-online-shop-bd.netlify.app/)
 - **[Project Name 2]**: [Brief Description, e.g., A machine learning model for predicting stock prices using Python and scikit-learn.](link-to-project)
 
 ## Skills
